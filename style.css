@@ -1,0 +1,25 @@
+body {
+    background-color: #e1edff;
+    font-family: "Nunito";
+  }
+  h1 {
+    text-shadow: 0px 0px 10px #e0fffe;
+    color: #96c0ff;
+    font-size: xxx-large;
+  }
+  h1,
+  h2 {
+    text-align: center;
+  }
+  ul {
+    margin-left: 600px;
+    font-size: large;
+  }
+  .images {
+    display: flex;
+    justify-content: space-between;
+  }
+  img {
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #96c0ff;
+  }
